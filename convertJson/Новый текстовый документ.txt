@@ -1,2 +1,0 @@
-testPyPi link
-https://test.pypi.org/project/convertator-v1/1.1/
