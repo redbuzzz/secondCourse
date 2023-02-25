@@ -1,11 +1,10 @@
 import setuptools
 
 setuptools.setup(
-    name="convertator_v1",
-    version="1.1",
+    name="convertator_v2",
+    version="1.2",
     author="Timurius",
     description='package for convert str and files to Json format',
-    url='http://github.com/example.py',
+    url='https://github.com/redbuzzz/secondCourse/tree/main/convertJson',
     packages=['convertorjson'],
-    install_requires=['json'],
 )

@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
-Name: convertator-v1
-Version: 1.1
+Name: convertator-v2
+Version: 1.2
 Summary: package for convert str and files to Json format
-Home-page: http://github.com/example.py
+Home-page: https://github.com/redbuzzz/secondCourse/tree/main/convertJson
 Author: Timurius
 License: UNKNOWN
 Platform: UNKNOWN
